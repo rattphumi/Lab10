@@ -43,7 +43,7 @@ int main(){
 	cout << "C = " << count[2] <<", ";	
 	cout << "D = " << count[3] <<", ";	
 	cout << "F = " << count[4];	
-	//	and so on ... for grade = C, D, F	
+	//	and so on ... for grade = C, D, 
 	
 	return 0;
 }
